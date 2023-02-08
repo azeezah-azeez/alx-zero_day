@@ -1,1 +1,1 @@
-“my second commit”
+“My own second commit”
